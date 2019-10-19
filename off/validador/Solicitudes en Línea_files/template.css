@@ -1,0 +1,10 @@
+/* Core */
+.rt-container, #rt-sidebar-a, #rt-sidebar-b, #rt-sidebar-c {background: transparent;}
+h1,h2,h3{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	}
+body {
+
+	}
+/* Logo */
+#rt-logo {display: none;}
